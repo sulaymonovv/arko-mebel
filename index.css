@@ -1,0 +1,54 @@
+.top-menu {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.right-list {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  
+}
+
+
+
+.list_1{
+  
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    list-style: none;
+    gap: 40px;
+}
+
+.list {
+    width: 500px;
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+
+}
+
+.list-bard {
+    align-items: center;
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+}
+.container{
+    background: #A8D1E7;
+}
+
+.list-bard-items{
+    list-style: none;
+}
+
+
+.carousel-image {
+    width: 100%;
+}
+.container_1{
+    margin: 25px;
+}
